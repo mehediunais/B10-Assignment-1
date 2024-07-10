@@ -22,7 +22,7 @@
     font-weight: 400;
     line-height: 26px;
     color: #0D1321B3;
-    margin: 24px 32px;
+    margin: 24px 232px;
     text-align: center;
 }
 
@@ -143,3 +143,120 @@
 }
 
 /* why dev section end */
+/* My Inspiration section start  */
+.my-inspiration {
+    padding: 0px 247px;
+}
+
+.my-inspire-iframe {
+    margin: 50px 0 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.iframe-box {
+    width: 1120px;
+    height: 615px;
+    /* background-color: aqua; */
+    border: 2px solid #0d13213f;
+    border-radius: 10px;
+}
+
+.y-video {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+/* My Inspiration section end */
+/* My Current Target section start */
+.current-target {
+    padding: 0px 247px;
+}
+
+.target-item {
+    margin: 50px 0 70px;
+    display: flex;
+    gap: 30px;
+}
+
+.t-item1 {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #ff4b1e09;
+}
+
+.t-item1 p {
+    color: #0d1321b7;
+    line-height: 30px;
+}
+
+.t-item1 button {
+    border: none;
+    padding: 0;
+}
+
+.t-item1 button a {
+    font-size: 16px;
+    font-weight: 700;
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+
+.t-item2 {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #f2f6fe;
+}
+
+.t-item2 p {
+    color: #0d1321b7;
+    line-height: 30px;
+}
+
+.t-item2 button {
+    border: none;
+    padding: 0;
+}
+
+.t-item2 button a {
+    font-size: 16px;
+    font-weight: 700;
+    background-color: white;
+    color: black;
+}
+
+
+
+
+
+.t-item3 {
+    padding: 40px;
+    border-radius: 16px;
+    background-color: #fffdf2;
+}
+
+.t-item3 p {
+    color: #0d1321b7;
+    line-height: 30px;
+}
+
+.t-item3 button {
+    border: none;
+    padding: 0;
+}
+
+.t-item3 button a {
+    font-size: 16px;
+    font-weight: 700;
+    background-color: white;
+    color: black;
+}
+
+/* My Current Target section end */
