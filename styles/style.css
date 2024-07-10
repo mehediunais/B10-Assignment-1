@@ -78,9 +78,13 @@
     font-weight: 600;
     padding: 21px 24px;
     border: none;
-    color: white;
     background-color: black;
     border-radius: 5px;
+}
+
+.banner-btn a {
+    color: white;
+    text-decoration: none;
 }
 
 /* banner end */
@@ -309,12 +313,33 @@
 
 
 /* Footer start */
-footer {}
+footer {
+    padding: 20px 247px;
+    background-color: rgba(13, 19, 33, 0.03);
+}
 
-.footer-content {}
+.footer-content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
 
 .footer-content h1 {}
 
 .footer-icon {}
+
+.footer-icon ul {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+
+.footer-icon ul li {
+    list-style: none;
+}
+
+.footer-icon ul li a {
+    text-decoration: none;
+}
 
 /* Footer end */
