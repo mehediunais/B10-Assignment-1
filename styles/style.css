@@ -260,3 +260,61 @@
 }
 
 /* My Current Target section end */
+
+/* I need support section start */
+.need-support {
+    padding: 50px 247px;
+}
+
+.support-items {
+    text-align: center;
+    background-image: url(../assets/handshake.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 64px 48px;
+    background-position: center;
+    border-radius: 16px;
+}
+
+.support-content h2 {
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 30px;
+    color: rgb(255, 255, 255);
+}
+
+.support-content p {
+    margin: 10px 0 35px;
+    color: rgb(255, 255, 255);
+}
+
+.support-form input[type="text"] {
+    width: 548px;
+    padding: 19px 20px;
+    border: none;
+    border-radius: 8px;
+}
+
+.support-form input[type="submit"] {
+    padding: 15px 18px;
+    font-size: 18px;
+    font-weight: 600;
+    border-radius: 8px;
+    border: none;
+    color: rgba(0, 0, 0, 0.658);
+}
+
+/* I need support section end */
+
+
+
+/* Footer start */
+footer {}
+
+.footer-content {}
+
+.footer-content h1 {}
+
+.footer-icon {}
+
+/* Footer end */
